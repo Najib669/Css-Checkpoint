@@ -1,0 +1,15 @@
+p {
+  display: inline-block;
+}
+p {
+  display: inline;
+  height: 500px;
+  width: 500px;
+  background: rgb(0, 0, 0);
+  color: rgb(243, 235, 2);
+}
+h1 {
+  color: red;
+  font-family: roboto;
+  text-align: center;
+}
